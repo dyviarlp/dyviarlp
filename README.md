@@ -44,17 +44,19 @@ An all-in-one preventive pet health and AI clinical triage platform built from s
 
 ### 📜 Licenses & Official Certifications
 
-| Certification | Issuing Organization | Year |
-| :--- | :--- | :---: |
-| **Generative AI with Large Language Models** | **DeepLearning.AI & AWS** (Coursera) | 2026 |
-| **Mastering Google Antigravity: From Setup to Real Projects** | **SkillsBooster Academy** (Coursera) | 2026 |
-| **Career Essentials in Generative AI** | **Microsoft & LinkedIn** | 2026 |
-| **Skill Certification: Python** | **HackerRank** | 2026 |
-| **Skill Certification: SQL** | **HackerRank** | 2026 |
-| **Scientific Computing with Python** (300h) | **freeCodeCamp** | 2026 |
-| **Ethics in the Age of Generative AI** | **LinkedIn Learning** | 2026 |
-| **Learning Microsoft 365 Copilot for Work (2024 & 2025)** | **Microsoft & LinkedIn** | 2026 |
-| **Generative AI for Project Management** | **LinkedIn Learning** | 2026 |
+| Specialization / Track | Certification Title | Issuing Organization | Year |
+| :--- | :--- | :--- | :---: |
+| 🛡️ **Cybersecurity & Cloud Defense** | **Threats, Vulnerabilities & Mitigations (CompTIA Security+ SY0-701)** | LinkedIn Learning | 2026 |
+| 🛡️ **Cybersecurity & Cloud Defense** | **Cybersecurity Fundamentals, Cloud Security & Industrial Systems** | Accenture | 2026 |
+| 🤖 **Agentic Systems & LLMs** | **Building AI Agents, Multi-Agent Workflows & LLM Engineering** | OpenAI & DeepLearning.AI / AWS | 2026 |
+| 🤖 **Agentic Systems & LLMs** | **Generative AI with Large Language Models** | DeepLearning.AI & AWS | 2026 |
+| 🤖 **Agentic Systems & LLMs** | **Mastering Google Antigravity: Multi-Agent Setup to Real Projects** | SkillsBooster Academy | 2026 |
+| 🤖 **Agentic Systems & LLMs** | **Career Essentials in Generative AI & Prompt Engineering** | Microsoft & LinkedIn | 2026 |
+| 💻 **Software & Engineering** | **Skill Certification: Python & SQL** | HackerRank | 2026 |
+| 💻 **Software & Engineering** | **Scientific Computing with Python (300h)** | freeCodeCamp | 2026 |
+| 💻 **Software & Engineering** | **DevOps Essentials & Advanced Computing (Julia)** | LinkedIn Learning | 2026 |
+| ⚖️ **AI Governance & Copilot** | **AI Governance, Ethics & Microsoft 365 Copilot (2024–2025)** | Microsoft & LinkedIn | 2026 |
+
 
 ---
 
