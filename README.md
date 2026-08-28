@@ -66,17 +66,16 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 
 ## 📜 Licenses & Official Certifications
 
-| Certification | Issuing Organization | Year |
+| Certification / Specialization | Issuing Organization | Year |
 | :--- | :--- | :---: |
+| **Agents and Workflows** | **OpenAI Academy** (ID: `xsnru0fkhs`) | 2026 |
 | **Generative AI with Large Language Models** | **DeepLearning.AI & AWS** (Coursera) | 2026 |
 | **Mastering Google Antigravity: From Setup to Real Projects** | **SkillsBooster Academy** (Coursera) | 2026 |
-| **Career Essentials in Generative AI** | **Microsoft & LinkedIn** | 2026 |
-| **Skill Certification: Python** | **HackerRank** | 2026 |
-| **Skill Certification: SQL** | **HackerRank** | 2026 |
+| **Threats, Vulnerabilities & Mitigations (CompTIA Security+ SY0-701)** | **CompTIA & LinkedIn Learning** | 2026 |
 | **Scientific Computing with Python** (300h) | **freeCodeCamp** | 2026 |
+| **Cloud Cybersecurity & Infrastructure Defense** | **Specialized Certificate** | 2026 |
+| **Career Essentials in Generative AI** | **Microsoft & LinkedIn** | 2026 |
 | **Ethics in the Age of Generative AI** | **LinkedIn Learning** | 2026 |
-| **Learning Microsoft 365 Copilot for Work (2024 & 2025)** | **Microsoft & LinkedIn** | 2026 |
-| **Generative AI for Project Management** | **LinkedIn Learning** | 2026 |
 
 ---
 
