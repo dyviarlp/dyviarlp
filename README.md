@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Armando_Rodríguez_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
 [![Interactive Demo](https://img.shields.io/badge/Live_Showcase-Mascotia_Web_Demo-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
+[![Agentic AI Hub](https://img.shields.io/badge/Agentic_AI_Hub-Multi--Agent_Framework-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyviarlp/agentic-ai-hub)
 [![Target OS](https://img.shields.io/badge/Android_17+-API_37_Ready-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://mascotia-demo.web.app)
 [![Test Suite](https://img.shields.io/badge/Tests-82%2F82_Passing_(100%25)-brightgreen?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
 
