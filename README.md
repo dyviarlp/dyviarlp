@@ -1,15 +1,15 @@
-# Hi, I'm Juan Armando Rodríguez 👋
+# Hi, I'm Juan Armando Rodríguez Pérez 👋
 
-### Applied AI & Full-Stack Systems Engineer (Mobile, Web & AI Agents)
+## Applied AI & Full-Stack Systems Engineer (Mobile, Web & AI Agents)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Armando_Rodríguez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Armando_Rodríguez_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
 [![Interactive Demo](https://img.shields.io/badge/Live_Showcase-Mascotia_Web_Demo-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
 [![Target OS](https://img.shields.io/badge/Android_17+-API_37_Ready-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://mascotia-demo.web.app)
 [![Test Suite](https://img.shields.io/badge/Tests-82%2F82_Passing_(100%25)-brightgreen?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
 
 ---
 
-### 👨‍💻 About Me & Value Proposition
+## 👨‍💻 About Me & Value Proposition
 
 I am a **Systems & Software Engineer** specialized in building end-to-end production digital products (Mobile, Web & Cloud) and architecting **Deterministic Agentic AI Systems & Multi-Agent Frameworks**.
 
@@ -26,7 +26,8 @@ My operational background in critical, fault-tolerant environments instills a st
 
 ### 📱 1. MascotIA — Full-Stack Mobile & Cloud AI Ecosystem (Production Ready)
 
-> **Live Interactive Simulator:** 🌐 [https://mascotia-demo.web.app](https://mascotia-demo.web.app)
+> **Live Interactive Simulator:** 🌐 [mascotia-demo.web.app](https://mascotia-demo.web.app)  
+> **Ecosystem Status:** 🚀 Production-Grade Architecture (Mobile, Web & Serverless Cloud) | Proprietary Closed Beta
 
 An end-to-end preventive pet healthcare and clinical AI triage platform built with strict enterprise standards:
 
@@ -39,7 +40,7 @@ An end-to-end preventive pet healthcare and clinical AI triage platform built wi
 
 ### 🏛️ 2. Enterprise Agentic AI Hub — Multi-Agent Framework & Loop-Engineering
 
-> **Architecture Repository:** 🌐 [https://github.com/dyviarlp/agentic-ai-hub](https://github.com/dyviarlp)
+> **Architecture Repository:** 🌐 [github.com/dyviarlp/agentic-ai-hub](https://github.com/dyviarlp/agentic-ai-hub)
 
 A production-grade **Multi-Agent AI Framework** featuring deterministic execution loops, dynamic zero-click intent routing, and domain-isolated templates:
 
@@ -53,7 +54,7 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 
 ---
 
-### 🎓 Academic & Official Education
+## 🎓 Academic & Official Education
 
 | Institution | Degree / Specialization | Year | Status |
 | :--- | :--- | :---: | :---: |
@@ -63,7 +64,7 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 
 ---
 
-### 📜 Licenses & Official Certifications
+## 📜 Licenses & Official Certifications
 
 | Certification | Issuing Organization | Year |
 | :--- | :--- | :---: |
@@ -79,7 +80,7 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+## 🛠️ Tech Stack & Tooling
 
 ```text
 Languages:       Dart 3.5+, Python 3.12+, TypeScript, JavaScript, SQL, HTML5/CSS3
@@ -91,7 +92,7 @@ Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automa
 
 ---
 
-### 📬 Connect with Me
+## 📬 Connect with Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/juan-rodriguez-dev-ai](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
 * 🌐 **Interactive Demo:** [mascotia-demo.web.app](https://mascotia-demo.web.app)
