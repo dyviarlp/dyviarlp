@@ -1,12 +1,10 @@
 # Hi, I'm Juan Armando Rodríguez Pérez 👋
 
-## Applied AI & Full-Stack Systems Engineer (Mobile, Web & AI Agents)
+## Applied AI & Full-Stack Systems Engineer (Mobile, Web & Multi-Agent Systems)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Armando_Rodríguez_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
-[![Interactive Demo](https://img.shields.io/badge/Live_Showcase-Mascotia_Web_Demo-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
-[![Agentic AI Hub](https://img.shields.io/badge/Agentic_AI_Hub-Multi--Agent_Framework-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyviarlp/agentic-ai-hub)
-[![Target OS](https://img.shields.io/badge/Android_17+-API_37_Ready-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://mascotia-demo.web.app)
-[![Test Suite](https://img.shields.io/badge/Tests-82%2F82_Passing_(100%25)-brightgreen?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
+[![Live Showcase](https://img.shields.io/badge/Live_Showcase-MascotIA_Simulator-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
+[![Agentic AI Hub](https://img.shields.io/badge/Architecture-Agentic_AI_Hub-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyviarlp/agentic-ai-hub)
 
 ---
 
@@ -27,6 +25,10 @@ My operational background in critical, fault-tolerant environments instills a st
 
 ### 📱 1. MascotIA — Full-Stack Mobile & Cloud AI Ecosystem (Production Ready)
 
+[![Target OS](https://img.shields.io/badge/Target_OS-Android_API_34--37_%7C_iOS-3DDC84?style=flat-square&logo=android&logoColor=white)](https://mascotia-demo.web.app)
+[![Test Suite](https://img.shields.io/badge/Shift--Left_QA-82%2F82_Tests_Passing_(100%25)-brightgreen?style=flat-square&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
+[![Live Simulator](https://img.shields.io/badge/Live_Simulator-mascotia--demo.web.app-0F4C5C?style=flat-square&logo=googlechrome&logoColor=white)](https://mascotia-demo.web.app)
+
 > **Live Interactive Simulator:** 🌐 [mascotia-demo.web.app](https://mascotia-demo.web.app)  
 > **Ecosystem Status:** 🚀 Production-Grade Architecture (Mobile, Web & Serverless Cloud) | Proprietary Closed Beta
 
@@ -40,6 +42,11 @@ An end-to-end preventive pet healthcare and clinical AI triage platform built wi
 ---
 
 ### 🏛️ 2. Enterprise Agentic AI Hub — Multi-Agent Framework & Loop-Engineering
+
+[![Architecture Repo](https://img.shields.io/badge/Repository-agentic--ai--hub-7928CA?style=flat-square&logo=github&logoColor=white)](https://github.com/dyviarlp/agentic-ai-hub)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/dyviarlp/agentic-ai-hub/blob/main/LICENSE)
+[![MCP Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol_Ready-8A2BE2?style=flat-square)](https://github.com/dyviarlp/agentic-ai-hub)
+[![Blueprints](https://img.shields.io/badge/Blueprints-4_Domain_Templates-success?style=flat-square)](https://github.com/dyviarlp/agentic-ai-hub)
 
 > **Architecture Repository:** 🌐 [github.com/dyviarlp/agentic-ai-hub](https://github.com/dyviarlp/agentic-ai-hub)
 
