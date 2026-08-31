@@ -3,7 +3,7 @@
 ## Applied AI & Full-Stack Systems Engineer (Mobile, Web & Multi-Agent Systems)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Armando_Rodríguez_Pérez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
-[![Live Showcase](https://img.shields.io/badge/Live_Showcase-MascotIA_Simulator-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
+[![Live Showcase](https://img.shields.io/badge/Live_Showcase-MascotIA_Simulator-0F4C5C?style=for-the-badge&logo=flutter&logoColor=white)](https://mascotia-app.web.app)
 [![Agentic AI Hub](https://img.shields.io/badge/Architecture-Agentic_AI_Hub-7928CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dyviarlp/agentic-ai-hub)
 
 ---
@@ -17,7 +17,7 @@ My operational background in critical, fault-tolerant environments instills a st
 * 📱 **Mobile & Web:** Flutter 3.5+, Dart 3.5+, Riverpod 3.x (Notifier/AsyncNotifier), Clean Architecture, Next.js, React, WebAssembly, Responsive UI/UX.
 * 🧠 **Applied AI & Agentic Systems:** Multi-Agent Orchestration, Deterministic Loop-Engineering (Think ➔ Act ➔ Observe ➔ Evaluate ➔ Evidence Gate), Google Gemini Flash API (Multimodal Vision + NLP), Strict Schema Inference (`responseSchema`), AI Safety Guardrails & Red-Teaming Evals.
 * ☁️ **Backend & Cloud:** Firebase (Auth, Granular Firestore Rules, Storage), Vercel Serverless (TypeScript), Python (FastAPI, Playwright), REST APIs, PostgreSQL.
-* 🛡️ **Cybersecurity & Compliance:** OWASP MASVS (Mobile App Security), Firebase App Check, GDPR & EU AI Act compliance, automated test suites (82/82 passing, 100% pass rate).
+* 🛡️ **Cybersecurity & Compliance:** OWASP MASVS (Mobile App Security), Firebase App Check, GDPR & EU AI Act compliance, automated test suites (91/91 passing, 100% pass rate).
 
 ---
 
@@ -25,18 +25,18 @@ My operational background in critical, fault-tolerant environments instills a st
 
 ### 📱 1. MascotIA — Full-Stack Mobile & Cloud AI Ecosystem (Production Ready)
 
-[![Target OS](https://img.shields.io/badge/Target_OS-Android_API_34--37_%7C_iOS-3DDC84?style=flat-square&logo=android&logoColor=white)](https://mascotia-demo.web.app)
-[![Test Suite](https://img.shields.io/badge/Shift--Left_QA-82%2F82_Tests_Passing_(100%25)-brightgreen?style=flat-square&logo=flutter&logoColor=white)](https://mascotia-demo.web.app)
-[![Live Simulator](https://img.shields.io/badge/Live_Simulator-mascotia--demo.web.app-0F4C5C?style=flat-square&logo=googlechrome&logoColor=white)](https://mascotia-demo.web.app)
+[![Target OS](https://img.shields.io/badge/Target_OS-Android_API_34--37_%7C_iOS-3DDC84?style=flat-square&logo=android&logoColor=white)](https://mascotia-app.web.app)
+[![Test Suite](https://img.shields.io/badge/Shift--Left_QA-91%2F91_Tests_Passing_(100%25)-brightgreen?style=flat-square&logo=flutter&logoColor=white)](https://mascotia-app.web.app)
+[![Live Simulator](https://img.shields.io/badge/Live_Simulator-mascotia--app.web.app-0F4C5C?style=flat-square&logo=googlechrome&logoColor=white)](https://mascotia-app.web.app)
 
-> **Live Interactive Simulator:** 🌐 [mascotia-demo.web.app](https://mascotia-demo.web.app)  
+> **Live Interactive Simulator:** 🌐 [mascotia-app.web.app](https://mascotia-app.web.app)  
 > **Ecosystem Status:** 🚀 Production-Grade Architecture (Mobile, Web & Serverless Cloud) | Proprietary Closed Beta
 
 An end-to-end preventive pet healthcare and clinical AI triage platform built with strict enterprise standards:
 
 * **Clinical AI Assistant (VetIA):** 24/7 symptom triage powered by **Gemini Flash API** with structured schema output (`responseSchema`) and sub-1ms local heuristic emergency filters.
 * **Official Digital Passport & QR System:** Instant vector PDF export compliant with Spain's Animal Welfare Act (Ley 7/2023) and dynamic QR collar tag rescue modal.
-* **Architecture & Shift-Left QA:** Clean Architecture with Riverpod 3.x, zero-jank 120fps Impeller rendering, theme-aware Dark Mode and a comprehensive suite of **82 automated tests (100% passing)**.
+* **Architecture & Shift-Left QA:** Clean Architecture with Riverpod 3.x, zero-jank 120fps Impeller rendering, theme-aware Dark Mode and a comprehensive suite of **91 automated tests (100% passing)**.
 * **Cloud & Serverless Backend:** Firebase Auth, offline-cached Firestore rules, compressed memory storage and Vercel serverless TypeScript endpoints (`delete-account.ts`, `terms.ts`) fulfilling Google Play Data Safety requirements.
 
 ---
@@ -69,6 +69,7 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 | **University of Helsinki** | **Official ECTS Credits in AI & Computer Science** | 2026 | **EU Accredited** |
 | **IES Primero de Mayo** | **Emergency Healthcare Technician (TES)** | 2026 | *In progress* |
 | **IES Primero de Mayo** | **Auxiliary Nursing Care Technician (TCAE)** | 2021 – 2023 | *Completed (Critical QA)* |
+| **Escuela Oficial de Idiomas (EOI Las Palmas II)** | **Advanced English (Official CEFR C1 Level)** | 2016 | **Official State Certified** |
 
 ---
 
@@ -76,6 +77,7 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 
 | Certification / Specialization | Issuing Organization | Year |
 | :--- | :--- | :---: |
+| **Develop GenAI Apps with Gemini and Streamlit** | **Google Cloud** ([Credly Badge](https://www.credly.com/badges/82636eab-ecc3-411d-a2c1-1c6f793761e8)) | 2026 |
 | **Agents and Workflows** | **OpenAI Academy** (ID: `xsnru0fkhs`) | 2026 |
 | **Generative AI with Large Language Models** | **DeepLearning.AI & AWS** (Coursera) | 2026 |
 | **Mastering Google Antigravity: From Setup to Real Projects** | **SkillsBooster Academy** (Coursera) | 2026 |
@@ -94,7 +96,7 @@ Languages:       Dart 3.5+, Python 3.12+, TypeScript, JavaScript, SQL, HTML5/CSS
 Frameworks:      Flutter (Android/iOS/Web), Riverpod 3.x, Next.js, React, FastAPI, Playwright
 Cloud & DB:      Firebase (Firestore, Auth, Storage), Vercel Serverless, PostgreSQL, Docker
 AI & Agents:     Google Gemini API, Google Antigravity SDK, Ollama, LangChain, Multi-Agent Loop
-Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automated Testing (82/82)
+Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automated Testing (91/91)
 ```
 
 ---
@@ -102,7 +104,7 @@ Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automa
 ## 📬 Connect with Me
 
 * 💼 **LinkedIn:** [linkedin.com/in/juan-rodriguez-dev-ai](https://www.linkedin.com/in/juan-rodriguez-dev-ai)
-* 🌐 **Interactive Demo:** [mascotia-demo.web.app](https://mascotia-demo.web.app)
+* 🌐 **Interactive Demo:** [mascotia-app.web.app](https://mascotia-app.web.app)
 * 📧 **Email:** [herobox.contacto@gmail.com](mailto:herobox.contacto@gmail.com)
 
 *Always building. Committed to high-fidelity engineering and deterministic AI systems.*
