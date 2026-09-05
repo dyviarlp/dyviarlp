@@ -17,7 +17,7 @@ My operational background in critical, fault-tolerant environments instills a st
 * 📱 **Mobile & Web:** Flutter 3.5+, Dart 3.5+, Riverpod 3.x (Notifier/AsyncNotifier), Clean Architecture, Next.js, React, WebAssembly, Responsive UI/UX.
 * 🧠 **Applied AI & Agentic Systems:** Multi-Agent Orchestration, Deterministic Loop-Engineering (Think ➔ Act ➔ Observe ➔ Evaluate ➔ Evidence Gate), Google Gemini Flash API (Multimodal Vision + NLP), Strict Schema Inference (`responseSchema`), AI Safety Guardrails & Red-Teaming Evals.
 * ☁️ **Backend & Cloud:** Firebase (Auth, Granular Firestore Rules, Storage), Vercel Serverless (TypeScript), Python (FastAPI, Playwright), REST APIs, PostgreSQL.
-* 🛡️ **Cybersecurity & Compliance:** OWASP MASVS (Mobile App Security), Firebase App Check, GDPR & EU AI Act compliance, automated test suites (108/108 passing, 100% pass rate).
+* 🛡️ **Cybersecurity & Compliance:** OWASP MASVS (Mobile App Security), Firebase App Check, GDPR & EU AI Act compliance, automated test suites (112/112 passing, 100% pass rate).
 
 ---
 
@@ -25,19 +25,19 @@ My operational background in critical, fault-tolerant environments instills a st
 
 ### 📱 1. MascotIA — Full-Stack Mobile & Cloud AI Ecosystem (Google Play Production)
 
-[![Google Play](https://img.shields.io/badge/Google_Play-Production_v1.0.0+40-4285F4?style=flat-square&logo=googleplay&logoColor=white)](https://mascotia-app.web.app)
+[![Google Play](https://img.shields.io/badge/Google_Play-Production_v1.0.0-4285F4?style=flat-square&logo=googleplay&logoColor=white)](https://mascotia-app.web.app)
 [![Target OS](https://img.shields.io/badge/Target_OS-Android_API_34--37_%7C_iOS-3DDC84?style=flat-square&logo=android&logoColor=white)](https://mascotia-app.web.app)
-[![Test Suite](https://img.shields.io/badge/Shift--Left_QA-108%2F108_Tests_Passing_(100%25)-brightgreen?style=flat-square&logo=flutter&logoColor=white)](https://mascotia-app.web.app)
+[![Test Suite](https://img.shields.io/badge/Shift--Left_QA-112%2F112_Tests_Passing_(100%25)-brightgreen?style=flat-square&logo=flutter&logoColor=white)](https://mascotia-app.web.app)
 [![Live Simulator](https://img.shields.io/badge/Live_Simulator-mascotia--app.web.app-0F4C5C?style=flat-square&logo=googlechrome&logoColor=white)](https://mascotia-app.web.app)
 
 > **Live Interactive Simulator:** 🌐 [mascotia-app.web.app](https://mascotia-app.web.app)  
-> **Ecosystem Status:** 🚀 **Official Production Release on Google Play Store (v1.0.0+40)** | Successfully passed Google Play 14-day Closed Testing (20 Testers)
+> **Ecosystem Status:** 🚀 **Official Production Release on Google Play Store** | Successfully passed Google Play Closed Testing (20 Testers)
 
 An end-to-end preventive pet healthcare and clinical AI triage platform built with strict enterprise standards:
 
 * **Clinical AI Assistant (VetIA):** 24/7 symptom triage powered by **Gemini Flash API** with structured schema output (`responseSchema`) and sub-1ms local heuristic emergency filters.
 * **Official Digital Passport & QR System:** Instant vector PDF export compliant with Spain's Animal Welfare Act (Ley 7/2023) and dynamic QR collar tag rescue modal.
-* **Architecture & Shift-Left QA:** Clean Architecture with Riverpod 3.x, zero-jank 120fps Impeller rendering, theme-aware Dark Mode, and a comprehensive suite of **108 automated tests (100% passing)** with 0 static analysis errors.
+* **Architecture & Shift-Left QA:** Clean Architecture with Riverpod 3.x, zero-jank 120fps Impeller rendering, theme-aware Dark Mode, and a comprehensive suite of **112 automated tests (100% passing)** with 0 static analysis errors.
 * **Native Forensic Engineering:** Resolved and mitigated a fatal native crash on Android 14–17 (API 34–37) by disassembling bytecode with `javap` and removing `HsdpShimActivity` (`tools:node="remove"`) against Google Play Core/HSDP in AdMob, activating the safe native fallback to Google Play Store (`com.android.vending`).
 * **Cloud & Serverless Backend:** Firebase Auth, offline-cached Firestore rules, compressed memory storage and Vercel serverless TypeScript endpoints (`delete-account.ts`, `terms.ts`) fulfilling Google Play Data Safety requirements.
 
@@ -101,8 +101,8 @@ A production-grade **Multi-Agent AI Framework** featuring deterministic executio
 Languages:       Dart 3.5+, Python 3.12+, TypeScript, JavaScript, SQL, HTML5/CSS3
 Frameworks:      Flutter (Android/iOS/Web), Riverpod 3.x, Next.js, React, FastAPI, Playwright
 Cloud & DB:      Firebase (Firestore, Auth, Storage), Vercel Serverless, PostgreSQL, Docker
-AI & Agents:     Google Gemini API, Google Antigravity SDK, Ollama, LangChain, Multi-Agent Loop
-Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automated Testing (108/108)
+AI & Agents:     Google Gemini API, Model Context Protocol (MCP), Google Antigravity SDK, Ollama, LangChain, Multi-Agent Loop
+Security & QA:   OWASP MASVS, Firebase App Check, Crashlytics, Shift-Left Automated Testing (112/112)
 ```
 
 ---
